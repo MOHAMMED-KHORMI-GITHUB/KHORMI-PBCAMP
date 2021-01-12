@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>5.0</SchemaVersion>
+  <CreatedDate>2021/01/12 16:13:56 (AST)</CreatedDate>
+  <ModifiedDate>2021/01/12 16:13:59 (AST)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.17.0</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.17.0</SavedByAutopsyVersion>
+  <Case>
+    <Name>khormi_20210112_161356</Name>
+    <DisplayName>Khormi</DisplayName>
+    <Number>0540580451</Number>
+    <Examiner>Mohammed</Examiner>
+    <ExaminerPhone/>
+    <ExaminerEmail>maaek4@gmail.com</ExaminerEmail>
+    <CaseNotes/>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+  <OriginalCase/>
+</AutopsyCase>
